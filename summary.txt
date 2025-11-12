@@ -1,0 +1,11 @@
+
+=== SALES REPORT SUMMARY ===
+Total Sales: 1000.0
+Best Selling Product: Banana
+
+Sales Breakdown:
+product
+Apple     250.0
+Banana    450.0
+Grapes      0.0
+Orange    300.0
